@@ -5,7 +5,9 @@ It is based on the book An Introduction to Statistical Learning with Application
 The authors of this book kindly make it available for free at the following link:
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 
-Looking to Update with some new books in 2020.
+To Do List:
 
-Week 1 Goal:
--Review 1 Notebook a Day
+Create Two Folders:
+1. Bayesian Stats the Fun Way
+
+2. Intro to Statistical Learning
